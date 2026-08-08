@@ -1,0 +1,172 @@
+[
+ {
+  "id": "look-1",
+  "title": "Bronzed Dune",
+  "handle": "bronzed-dune",
+  "tagline": "Sun-dried separates in warm bronze.",
+  "description": "The Shimmer Edit's Bronzed Dune family — a poncho top, fluid trousers and a tank, layered for golden hour by the sea.",
+  "mood": "Golden Hour",
+  "image": "https://cdn.shopify.com/s/files/1/0687/0155/2958/files/811498F0-87CB-40FE-A165-FBE5CA490FAF.jpg",
+  "items": [
+   {
+    "productHandle": "bronzed-dune-poncho-top",
+    "role": "top",
+    "note": "poncho"
+   },
+   {
+    "productHandle": "bronzed-dune-trousers",
+    "role": "bottom"
+   },
+   {
+    "productHandle": "bronzed-dune-tank-top",
+    "role": "top",
+    "note": "underneath"
+   }
+  ]
+ },
+ {
+  "id": "look-2",
+  "title": "Terra Glow",
+  "handle": "terra-glow",
+  "tagline": "Warm terracotta tones for long evenings.",
+  "description": "Terra Glow separates from the Shimmer Edit — a poncho top and trousers with the tank worn beneath.",
+  "mood": "Golden Hour",
+  "image": "https://cdn.shopify.com/s/files/1/0687/0155/2958/files/48D82760-D0A2-46DA-9B3C-52DE2B64B6E7.jpg",
+  "items": [
+   {
+    "productHandle": "terra-glow-poncho-top",
+    "role": "top"
+   },
+   {
+    "productHandle": "terra-glow-trousers",
+    "role": "bottom"
+   },
+   {
+    "productHandle": "terra-glow-tank-top",
+    "role": "top",
+    "note": "underneath"
+   }
+  ]
+ },
+ {
+  "id": "look-3",
+  "title": "Midnight Tides",
+  "handle": "midnight-tides",
+  "tagline": "Deep blue separates that drift day to dusk.",
+  "description": "Midnight Tides — the Shimmer Edit's darkest family, paired into an easy two-piece.",
+  "mood": "Golden Hour",
+  "image": "https://cdn.shopify.com/s/files/1/0687/0155/2958/files/99827F84-8F6A-4010-8C0E-E4E774BBD288.jpg",
+  "items": [
+   {
+    "productHandle": "midnight-tides-poncho-top",
+    "role": "top"
+   },
+   {
+    "productHandle": "midnight-tides-trousers",
+    "role": "bottom"
+   }
+  ]
+ },
+ {
+  "id": "look-4",
+  "title": "Sea Salt",
+  "handle": "sea-salt",
+  "tagline": "Beach to bar in soft coastal canvas.",
+  "description": "A Sea Salt cover-up set over the Ocean bikini — throw it on and stay out late.",
+  "mood": "By the Sea",
+  "image": "https://cdn.shopify.com/s/files/1/0687/0155/2958/files/B3D7C713-393E-41F9-8F74-BE20208B109D.jpg",
+  "items": [
+   {
+    "productHandle": "sea-salt-cover-up-set",
+    "role": "set"
+   },
+   {
+    "productHandle": "ocean-bikini-top",
+    "role": "swim"
+   },
+   {
+    "productHandle": "ocean-bikini-bottom",
+    "role": "swim"
+   }
+  ]
+ },
+ {
+  "id": "look-5",
+  "title": "Postcard Evening",
+  "handle": "postcard-evening",
+  "tagline": "A satin set, finished in 24K gold.",
+  "description": "The Glazed Pistachio satin set from Postcards from Summer, paired with the 24K Magic clutch.",
+  "mood": "Golden Hour",
+  "image": "https://cdn.shopify.com/s/files/1/0687/0155/2958/files/835D1713-4EC1-4546-A79F-737D242721D7.jpg",
+  "items": [
+   {
+    "productHandle": "glazed-pistachio-strapless-satin-set",
+    "role": "set"
+   },
+   {
+    "productHandle": "24k-magic-clutch-medium-size",
+    "role": "accessory",
+    "note": "24K Magic"
+   }
+  ]
+ },
+ {
+  "id": "look-6",
+  "title": "Linen Day",
+  "handle": "linen-day",
+  "tagline": "The label's signature, worn as a set.",
+  "description": "100% linen at its easiest — the Signature Pink Linen Halter Top with Signature Black Linen Pants.",
+  "mood": "Everyday Linen",
+  "image": "https://cdn.shopify.com/s/files/1/0687/0155/2958/files/69E9181E-B0F6-4A16-AD8B-230A0558B9B6.jpg",
+  "items": [
+   {
+    "productHandle": "pink-linen-halter-top",
+    "role": "top"
+   },
+   {
+    "productHandle": "signature-black-linen-pants",
+    "role": "bottom"
+   }
+  ]
+ },
+ {
+  "id": "look-7",
+  "title": "Ramadan Elegance",
+  "handle": "ramadan-elegance",
+  "tagline": "Refined satin crepe for days and evenings.",
+  "description": "The Amara beige abaya with delicate lace cuffs, accessorized with the 24K Magic clutch.",
+  "mood": "Ramadan & Modest",
+  "image": "https://cdn.shopify.com/s/files/1/0687/0155/2958/files/36846BF3-3324-457A-B723-37EEDC747814.jpg",
+  "items": [
+   {
+    "productHandle": "amara-beige-abaya",
+    "role": "abaya"
+   },
+   {
+    "productHandle": "24k-magic-clutch-small-size",
+    "role": "accessory",
+    "note": "24K Magic"
+   }
+  ]
+ },
+ {
+  "id": "look-8",
+  "title": "Sunset Satin",
+  "handle": "sunset-satin",
+  "tagline": "Champagne satin for golden-hour dressing.",
+  "description": "The Champagne Muse strapless satin set — an easy evening silhouette from the summer edit.",
+  "mood": "Golden Hour",
+  "image": "https://cdn.shopify.com/s/files/1/0687/0155/2958/files/53D91AC2-1AB7-4023-954B-4D336FBA7B79.jpg",
+  "items": [
+   {
+    "productHandle": "champagne-muse-strapless-satin-set",
+    "role": "set"
+   },
+   {
+    "productHandle": "24k-magic-clutch-medium-size",
+    "role": "accessory",
+    "note": "24K Magic"
+   }
+  ]
+ }
+]

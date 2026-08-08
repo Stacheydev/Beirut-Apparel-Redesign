@@ -1,0 +1,93 @@
+{
+  "$comment": "Merchandising config — curated, Shopify-portable (maps to metafields/metaobjects). Edits are the brand's real editorial collections; moods map to real categories. Product handles referenced here must exist in the dataset.",
+  "moods": [
+    {
+      "id": "by-the-sea",
+      "title": "By the Sea",
+      "handle": "by-the-sea",
+      "tagline": "Swim, cover up, stay out late.",
+      "description": "Swimwear, cover-ups and coastal separates for long Lebanese summers by the sea.",
+      "categories": ["swimsuits", "beach-cover-ups", "coastal-canvas-edit", "poncho-sets", "beach-essentials"]
+    },
+    {
+      "id": "golden-hour",
+      "title": "Golden Hour",
+      "handle": "golden-hour",
+      "tagline": "Sunset dressing in satin and shimmer.",
+      "description": "Satin sets, shimmer separates and evening dresses for golden-hour moments.",
+      "categories": ["satin-sets", "the-shimmer-edit", "evening", "festive-collection", "dresses"]
+    },
+    {
+      "id": "everyday-linen",
+      "title": "Everyday Linen",
+      "handle": "everyday-linen",
+      "tagline": "The label's signature — breezy linen.",
+      "description": "100% linen tops, trousers, chemise and co-ord sets for everyday ease.",
+      "categories": ["linen", "linen-sets-dresses", "all-chemise", "dresses", "matching-sets"]
+    },
+    {
+      "id": "ramadan-modest",
+      "title": "Ramadan & Modest",
+      "handle": "ramadan-modest",
+      "tagline": "Refined elegance for days and evenings.",
+      "description": "Satin crepe abayas and modest separates, finished with delicate detail.",
+      "categories": ["abaya-collection", "ramadan-collection"]
+    },
+    {
+      "id": "statement",
+      "title": "Statement",
+      "handle": "statement",
+      "tagline": "Prints and silhouettes that turn heads.",
+      "description": "Gingham, polka and halter silhouettes with something to say.",
+      "categories": ["gingham-sets", "the-polka-edit", "all-halter-tops", "backless-tops"]
+    },
+    {
+      "id": "fall-layers",
+      "title": "Fall Layers",
+      "handle": "fall-layers",
+      "tagline": "Warm layers for golden-weather months.",
+      "description": "Knits, loungewear, suede and jackets from the fall archive.",
+      "categories": ["knitwear", "loungewear", "suede", "fall-collection-2025", "jackets-1", "fleece"]
+    }
+  ],
+  "nav": {
+    "shop": [
+      "linen",
+      "satin-sets",
+      "swimsuits",
+      "dresses",
+      "matching-sets",
+      "abaya-collection",
+      "all-tops",
+      "all-bottoms",
+      "knitwear",
+      "loungewear",
+      "denim",
+      "footwear",
+      "all-clutches-scrunchies"
+    ],
+    "edits": [
+      "postcards-from-summer",
+      "the-shimmer-edit",
+      "coastal-canvas-edit",
+      "the-polka-edit",
+      "the-white-edit",
+      "fall-collection-2025"
+    ],
+    "sale": ["discounted-items"]
+  },
+  "homepage": {
+    "featuredEdits": [
+      "postcards-from-summer",
+      "the-shimmer-edit",
+      "coastal-canvas-edit"
+    ],
+    "featuredMood": "by-the-sea",
+    "heroProductHandle": "sea-glass-strapless-satin-set",
+    "lookCount": 6,
+    "newInCount": 8,
+    "bestSellerCount": 8,
+    "saleCount": 6
+  },
+  "newInWindowDays": 90
+}

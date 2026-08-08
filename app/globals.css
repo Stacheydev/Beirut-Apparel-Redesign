@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-paper: #f5f0e6;
+    --color-surface: #fffdf8;
+    --color-ink: #1a1714;
+    --color-muted: #7a7366;
+    --color-line: #e6dfcf;
+    --color-lagoon: #0f4c3f;
+    --color-terracotta: #b0522c;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-paper text-ink font-sans antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  ::selection {
+    background-color: var(--color-lagoon);
+    color: var(--color-paper);
+  }
+
+  /* Accessible focus ring */
+  :focus-visible {
+    outline: 2px solid var(--color-lagoon);
+    outline-offset: 3px;
+    border-radius: 1px;
+  }
+
+  /* Hairline treatment used across the editorial system */
+  .hairline {
+    border-color: var(--color-line);
+  }
+
+  /* Respect reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer components {
+  .shell {
+    @apply mx-auto w-full max-w-shell px-4 sm:px-6 lg:px-10;
+  }
+
+  /* Small-caps editorial label */
+  .eyebrow {
+    @apply text-[11px] font-semibold uppercase tracking-eyebrow;
+  }
+
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Editorial display serif headline */
+  .display {
+    @apply font-display font-light tracking-[-0.01em];
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

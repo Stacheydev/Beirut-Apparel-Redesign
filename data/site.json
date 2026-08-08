@@ -1,0 +1,76 @@
+{
+  "$comment": "Brand configuration. All business facts (founding, founders, story, exchange policy, currency) come from the reference store's public pages. Editorial copy is the redesign concept's own voice, kept consistent with the real brand positioning.",
+  "store": {
+    "name": "Beirut Apparel",
+    "slogan": "Rooted in Beirut, inspired by the everyday.",
+    "currency": "USD",
+    "region": "Lebanon",
+    "founded": "May 2019",
+    "founders": "Lynn & Nour",
+    "yearsActive": "7",
+    "announcement": "The Postcards from Summer edit has landed",
+    "announcementHref": "/collections/postcards-from-summer"
+  },
+  "hero": {
+    "eyebrow": "Beirut Apparel · The Summer Edit",
+    "headline": "Sun-washed pieces for the everyday",
+    "sub": "Linen, satin and seaside separates inspired by colorful Lebanese summers by the sea — designed in Beirut, made for every day.",
+    "primaryCta": { "label": "Shop Postcards from Summer", "href": "/collections/postcards-from-summer" },
+    "secondaryCta": { "label": "Browse the edits", "href": "/shop" },
+    "productHandle": "sea-glass-strapless-satin-set"
+  },
+  "story": {
+    "headline": "From Friends to Founders",
+    "intro": "Beirut Apparel began in May 2019 — two best friends, one city, and the simple idea that what you wear should carry the spirit of where you come from. Seven years later, Lynn & Nour have built a label rooted in Beirut and inspired by the everyday.",
+    "body": "A city that has seen it all, Beirut taught us to keep going through every high and low. Our pieces carry that same spirit — resilience, beauty, and effortless style. From our first linen sets to sun-washed summer edits, everything is designed with the belief that fashion should feel like you.",
+    "pillars": [
+      {
+        "title": "Effortless style",
+        "description": "Breezy linen, fluid satin and easy co-ordinated sets — pieces designed to be lived in, not just worn."
+      },
+      {
+        "title": "Rooted in Beirut",
+        "description": "A Lebanese label celebrating the resilience and warmth of the city that made us."
+      },
+      {
+        "title": "Made for real days",
+        "description": "From the beach to the boardroom to Ramadan evenings — one wardrobe for every moment."
+      }
+    ],
+    "timeline": [
+      { "year": "2019", "label": "Two friends in Beirut start Beirut Apparel" },
+      { "year": "2021", "label": "The linen edit becomes the label's signature" },
+      { "year": "2024", "label": "Abayas, evening sets and seasonal edits grow the wardrobe" },
+      { "year": "2026", "label": "Seven years of fashion, friendship and building in Lebanon" }
+    ]
+  },
+  "trust": [
+    { "title": "Exchanges within 7 days", "description": "Unused, unworn pieces in original condition with tags attached." },
+    { "title": "Born in Beirut", "description": "Founded in 2019 by Lynn & Nour — a Lebanese label through and through." },
+    { "title": "Fresh seasonal edits", "description": "Linen, satin, swimwear and more — small-batch drops, not endless catalogs." },
+    { "title": "Simple, personal care", "description": "Easy-to-follow fabric care so your pieces stay beautiful." }
+  ],
+  "policy": {
+    "title": "Our exchange policy",
+    "intro": "We offer exchanges only, within 7 days of receiving your order.",
+    "rules": [
+      "Items must be unused, unworn, and in their original condition with tags attached.",
+      "Exchanges are available within 7 days of receiving your order.",
+      "Please note that refunds are not available.",
+      "Reach out to us with your order details and we'll guide you through the exchange."
+    ]
+  },
+  "footer": {
+    "about": "Beirut Apparel is a Lebanese label founded in 2019 by Lynn & Nour. Rooted in Beirut, inspired by the everyday — linen, satin and sun-washed pieces for every moment.",
+    "socialNote": "Find us on Instagram",
+    "newsletter": {
+      "headline": "Be the first to know",
+      "sub": "New styles, seasonal edits and special deals — straight to your inbox."
+    }
+  },
+  "disclaimer": "Independent redesign concept by NorthBound. Not affiliated with, endorsed by, or commissioned by Beirut Apparel. Product names, prices and imagery are reference data from the store's public website; this concept does not process payments or place orders.",
+  "about": {
+    "headline": "The everyday, elevated.",
+    "intro": "This concept reimagines Beirut Apparel as an inspiration-led storefront — the way fashion is actually shopped: you start with a feeling, a moment or an outfit, and discover the pieces that complete it."
+  }
+}
